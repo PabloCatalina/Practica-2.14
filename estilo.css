@@ -1,0 +1,63 @@
+@font-face{
+    font-family: "Ribeye Marrow";
+    src: url(fonts/Ribeye_Marrow.woff2);
+}
+
+/* Pablo Catalina  Castelló */
+/* Ultima modificación 05/02/2020 hora 19:05 */
+
+
+
+
+body{
+    background-color: hsl(45, 55%, 55%);
+}
+
+h1{
+    text-align: center;
+    font-family: "Ribeye Marrow";
+    font-size: 3rem;
+    letter-spacing: 1.5rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p.intro {
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: sans-serif;
+    line-height: 200%;
+    text-align: justify;
+}
+
+p.espanol{
+    font-family: "Just Another Hand";
+    font-size: 4rem;
+    color: white;
+    text-align: right;
+}
+
+p.latin{
+    color: black;
+    font-size: 3rem;
+    font-family: "Lobster";
+}
+
+cite {
+    text-decoration: underline;
+}
+
+footer{
+    text-align: center;
+    color: black;
+    font-size: 1.5rem;
+    border: black solid 1.5px;
+    background-color: grey;
+}
+
+span{
+    color: blue;
+}
+
+
+    
